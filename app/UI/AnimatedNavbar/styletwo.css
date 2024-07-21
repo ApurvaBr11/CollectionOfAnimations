@@ -1,0 +1,73 @@
+* {
+    font-family: 'Poppins';
+}
+
+.onHover:hover .DivToMotion {
+    transform: translateY(0px);
+    transition: all 1s ease-in-out;
+    transform: translateZ(60);
+}
+
+.DivToMotion {
+    transform: translateY(-320px);
+    transition: transform 0.2s ease-in-out;
+}
+
+.DivToMotion p {
+    opacity: 0;
+}
+
+.onHover:hover .DivToMotion .i1 {
+    transform: translateY(10px);
+    opacity: 1;
+    transition: all 0.1s ease-in-out;
+    transition-delay: 0.5s;
+}
+
+.onHover:hover .DivToMotion .i2 {
+    transform: translateY(15px);
+    opacity: 1;
+    transition: all 0.5s ease-in-out;
+    transition-delay: 0.8s;
+}
+
+.onHover:hover .DivToMotion .i3 {
+    transform: translateY(20px);
+    opacity: 1;
+    transition: all 0.8s ease-in-out;
+    transition-delay: 1.3s
+}
+
+.onHover:hover .imp,
+.DivToMotion {
+    background: #d3d3d3;
+    transition: all 0.8s ease-in-out;
+}
+
+.card:after {
+    content: "";
+    height: 70px;
+    width: 2px;
+    position: absolute;
+    left: -1px;
+    top: 65%;
+    transition: top, opacity;
+    transition-duration: 600ms;
+    transition-timing-function: ease;
+    background: linear-gradient(transparent, #7b68ee, transparent);
+    opacity: 0;
+}
+
+.card:after {
+    top: 65%;
+    opacity: 0;
+}
+
+.card:hover:after {
+    top: 25%;
+    opacity: 1;
+}
+.bgmcp{
+    background-image: url("https://i.pinimg.com/564x/db/ca/e3/dbcae383107e945b4696390ce8ba174e.jpg");
+    background-repeat: no-repeat;
+}
