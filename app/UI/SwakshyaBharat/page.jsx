@@ -26,7 +26,7 @@ const SwakshyaBharatPage = () => {
                             REUSE
                         </div>
                         <div className="w-1/3 h-full text-md text-justify p-2 pt-4">
-                            Swachh Bharat Abhiyan is a national cleanliness campaign in India launched to promote hygiene, sanitation, and cleanliness in the country's urban and rural areas. Its goal is to create a cleaner and healthier India for all.
+                            Swachh Bharat Abhiyan is a national cleanliness campaign in India launched to promote hygiene, sanitation, and cleanliness in the countrys urban and rural areas. Its goal is to create a cleaner and healthier India for all.
                             <p className="text-lg font-bold text-center">Swa Bharat - Swachh Bharat</p>
                         </div>
                         <div className="w-1/3 h-full text-8xl pl-4">REDUCE</div>
