@@ -26,7 +26,7 @@ const ProductCard = () => {
                         src="https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
                         alt=""/>
                     <div className="rounded-full w-12 h-12 bg-[#ffffff41] absolute bottom-4 flex items-center justify-center font-black">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Circle Right"><circle cx="12" cy="12" r="10" style="fill:#ece4b7"/><path d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z" style="fill:#ff8e31"/></g></svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Circle Right"><circle cx="12" cy="12" r="10" /><path d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z" /></g></svg>
                     </div>
                     <div className="rounded-full w-12 h-12 bg-[#ffffff41] absolute bottom-4 hov"></div>
                 </div>
@@ -71,7 +71,7 @@ const ProductCard = () => {
                         src="https://images.unsplash.com/photo-1578587018452-892bacefd3f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
                         alt=""/>
                     <div className="rounded-full w-12 h-12 bg-[#ffffff41] absolute bottom-4 flex items-center justify-center font-black">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Circle Right"><circle cx="12" cy="12" r="10" style="fill:#ece4b7"/><path d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z" style="fill:#ff8e31"/></g></svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Circle Right"><circle cx="12" cy="12" r="10" /><path d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"/></g></svg>
                     </div>
                     <div className="rounded-full w-12 h-12 bg-[#ffffff41] absolute bottom-4 hov"></div>
                 </div>
@@ -119,7 +119,7 @@ const ProductCard = () => {
                         src="https://images.unsplash.com/photo-1595434091143-b375ced5fe5c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Y29mZmVlJTIwY3VwfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
                         alt=""/>
                     <div className="rounded-full w-12 h-12 bg-[#ffffff41] absolute bottom-4 flex items-center justify-center font-black">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Circle Right"><circle cx="12" cy="12" r="10" style="fill:#ece4b7"/><path d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z" style="fill:#ff8e31"/></g></svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Circle Right"><circle cx="12" cy="12" r="10" /><path d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"/></g></svg>
                     </div>
                     <div className="rounded-full w-12 h-12 bg-[#ffffff41] absolute bottom-4 hov"></div>
                 </div>
@@ -164,7 +164,7 @@ const ProductCard = () => {
                         src="https://images.unsplash.com/photo-1595434091143-b375ced5fe5c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Y29mZmVlJTIwY3VwfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
                         alt=""/>
                     <div className="rounded-full w-12 h-12 bg-[#ffffff41] absolute bottom-4 flex items-center justify-center font-black">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Circle Right"><circle cx="12" cy="12" r="10" style="fill:#ece4b7"/><path d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z" style="fill:#ff8e31"/></g></svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Circle Right"><circle cx="12" cy="12" r="10" /><path d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z" /></g></svg>
                     </div>
                     <div className="rounded-full w-12 h-12 bg-[#ffffff41] absolute bottom-4 hov"></div>
                 </div>
@@ -209,7 +209,7 @@ const ProductCard = () => {
                         src="https://cdn.shopify.com/s/files/1/0623/8850/2700/products/WM0033_700x.png?v=1654782386"
                         alt=""/>
                     <div className="rounded-full w-12 h-12 bg-[#ffffff41] absolute bottom-4 flex items-center justify-center font-black">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Circle Right"><circle cx="12" cy="12" r="10" style="fill:#ece4b7"/><path d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z" style="fill:#ff8e31"/></g></svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Circle Right"><circle cx="12" cy="12" r="10" /><path d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"/></g></svg>
                     </div>
                     <div className="rounded-full w-12 h-12 bg-[#ffffff41] absolute bottom-4 hov"></div>
                 </div>
