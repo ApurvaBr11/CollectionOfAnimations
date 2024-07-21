@@ -3,7 +3,7 @@ import './styletwenty.css'
 
 const SmileCurvepage = () => {
   return (
- <div className="main flex flex-col justify-center items-center h-screen ">
+ <div className="here main flex flex-col justify-center items-center h-screen ">
         <div className="curve">
             <div className="w-1/5 overflow-hidden bg-black">
                 <img className="relative top-[160px] scale-[1.2]" src="https://images.unsplash.com/photo-1595152772835-219674b2a8a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80" alt=""/>

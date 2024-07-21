@@ -3,7 +3,7 @@ import './stylethree.css'
 
 const AnimatedTextPage = () => {
   return (
-    <div class="outer-headings">
+    <div class="outer-headings bg-white">
     <h1>
       I am, 
       <p>Apurv Kashyap</p>

@@ -7,13 +7,6 @@
     --icon-size: calc(var(--circle-size) / 4);
   }
   
-  body {
-    background-color: #222;
-    color: #ccc;
-    font-family: sans-serif;
-    margin: 20px;
-  }
-  
   span {
     color: red;
     font-weight: bold;

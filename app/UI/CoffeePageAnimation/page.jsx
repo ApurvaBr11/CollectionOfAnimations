@@ -3,7 +3,7 @@ import './styleeight.css'
 
 const CoffeeAnimationpage = () => {
   return (
-<div className="flex flex-col md:flex-row md:w-full w-[80%] mainb">
+<div className="flex bg-white flex-col md:flex-row md:w-full w-[80%] mainb">
     <div className="md:w-[53%] w-[100%] h-full rotpar ">
       <div className="">
         <img className="rot scale-75" src="/mypng.png" alt=""/>

@@ -2,11 +2,7 @@ video::-webkit-media-controls-start-playback-button {
   display: none;
 }
 
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 .video-wrapper {
   position: relative;
   -radius: 5px;

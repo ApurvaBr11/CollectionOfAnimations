@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { links } from "./UI/data";
+import { links } from "./data";
 
 export default function Home() {
   return (
@@ -17,3 +17,4 @@ export default function Home() {
    </div>
   );
 }
+

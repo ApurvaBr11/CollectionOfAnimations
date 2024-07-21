@@ -3,7 +3,7 @@ import './styleseven.css'
 
 const CoffeeHomepage = () => {
   return (
-    <div className="flex w-full mainb text-black">
+    <div className="flex bg-white w-full mainb text-black">
     <div className="w-[53%] h-full rotpar ">
       <div className="">
         <img className="scale-50  moving" src="/mypng.png" alt=""/>

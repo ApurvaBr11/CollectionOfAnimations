@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/UI/BlobEffect/page.jsx", "app/UI/data/index.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/UI/BlobEffect/page.jsx", "app/data/index.js"],
   "exclude": ["node_modules"]
 }

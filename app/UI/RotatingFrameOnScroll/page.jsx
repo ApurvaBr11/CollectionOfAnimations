@@ -6,7 +6,7 @@ import './styleteight.css'
 
 gsap.registerPlugin(ScrollTrigger);
 
-export default function HomePage() {
+export default function RotatingPage() {
   useEffect(() => {
     const descriptions = document.querySelectorAll('section .description');
     const circle = document.querySelector('.circle');

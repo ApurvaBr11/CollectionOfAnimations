@@ -1,12 +1,6 @@
 /* styles/globals.css */
 
-body {
-    background-color: black;
-    height: 100vh;
-    margin: 0;
-    overflow: hidden;
-  }
-  
+
   @keyframes rotate {
     from {
       rotate: 0deg;

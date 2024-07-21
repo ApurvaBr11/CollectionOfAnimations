@@ -50,7 +50,7 @@ export default function Home() {
   }, []);
 
   return (
-    <div>
+    <div className='bg-black h-screen overflow-hidden'>
       <Head>
         <title>ApurvApp</title>
       </Head>
