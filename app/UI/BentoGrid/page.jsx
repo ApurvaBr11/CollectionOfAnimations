@@ -5,7 +5,7 @@ const BentoGridpage = () => {
   return (
 <div className="w-screen overflow-hidden bg-white">
         <div className="w-screen flex justify-between md:px-32 px-6 py-2 bg-[#CCD5AE] items-center fixed">
-            <p className="text-4xl">PlantLet's</p>
+            <p className="text-4xl">PlantLets</p>
             <div className="  justify-between items-center gap-6 text-bold hidden md:flex">
                 <p>About</p>
                 <p>Documents</p>
